@@ -21,7 +21,7 @@ We believe that privacy is a right, not a privilege. Our tools rely on community
 
 * **💬 Join the Community:** Connect with us on **[Discord](https://www.hapara.fail/discord)** to discuss privacy, report blocks, or get help.
 * **🐛 Report Issues:** Found a false positive or a bug? Please open an issue in the relevant repository.
-* **💸 Support Us:** This project is funded by community donations. You can find ways to support us **[here](https://hapara.fail/contribute)**.
+* **💸 Support Us:** This project is funded by community donations. You can find ways to support us **[here](https://www.hapara.fail/contribute)**.
 
 ---
 
