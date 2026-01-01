@@ -10,8 +10,8 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **[Blocklist](https://github.com/hapara-fail/blocklist)** | A unified, community-maintained DNS blocklist designed to neutralize surveillance, filtering, and tracking software. | [Repo](https://github.com/hapara-fail/blocklist) • [Issues](https://github.com/hapara-fail/blocklist/issues) |
-| **[Website](https://github.com/hapara-fail/website)** | The source code for our platform, built on Cloudflare Workers. Hosts our privacy tools, blog, and documentation. | [Repo](https://github.com/hapara-fail/website) • [Live Site](https://www.hapara.fail) |
+| **[Blocklist](https://github.com/hapara-fail/blocklist)** | A unified, community-maintained DNS blocklist designed to neutralize surveillance, filtering, and tracking software. | [View](https://cdn.jsdelivr.net/gh/hapara-fail/blocklist@main/blocklist.txt) |
+| **[Website](https://github.com/hapara-fail/website)** | The source code for our platform, built on Cloudflare Workers. Hosts our privacy tools, blog, and documentation. | [Live Site](https://www.hapara.fail) |
 
 ---
 
