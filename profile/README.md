@@ -29,5 +29,5 @@ We believe that privacy is a right, not a privilege. Our tools rely on community
 
 All our work is open source and licensed under the **GNU GPLv3**. We believe in transparency and the freedom to inspect the code that runs on your devices.
 
-* **[Read our License](https://license.hapara.fail)**
+* **[Read our License](https://www.hapara.fail/license)**
 * **[Contact Support](https://support.hapara.fail)**
